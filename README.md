@@ -1,3 +1,3 @@
 LINK
 
-github.com/kevDomingo/HouseOfFashion.github.io/
+https://github.com/kevDomingo/HouseOfFashion.github.io/
